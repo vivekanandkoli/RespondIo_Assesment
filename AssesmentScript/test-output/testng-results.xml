@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-10-03T03:54:01 MYT" name="Default suite" finished-at="2022-10-03T03:54:45 MYT" duration-ms="43809">
+    <groups>
+    </groups>
+    <test started-at="2022-10-03T03:54:01 MYT" name="Default test" finished-at="2022-10-03T03:54:45 MYT" duration-ms="43809">
+      <class name="HomeTest.HomeTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:HomeTest.HomeTest@5f683daf]" started-at="2022-10-03T03:54:01 MYT" name="setUp" finished-at="2022-10-03T03:54:10 MYT" duration-ms="9107" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="searchValidation()[pri:1, instance:HomeTest.HomeTest@5f683daf]" started-at="2022-10-03T03:54:10 MYT" name="searchValidation" finished-at="2022-10-03T03:54:12 MYT" duration-ms="2035" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchValidation -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:HomeTest.HomeTest@5f683daf]" started-at="2022-10-03T03:54:12 MYT" name="tearDown" finished-at="2022-10-03T03:54:12 MYT" duration-ms="95" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:HomeTest.HomeTest@5f683daf]" started-at="2022-10-03T03:54:12 MYT" name="setUp" finished-at="2022-10-03T03:54:20 MYT" duration-ms="7426" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="filterValidation()[pri:2, instance:HomeTest.HomeTest@5f683daf]" started-at="2022-10-03T03:54:20 MYT" name="filterValidation" finished-at="2022-10-03T03:54:23 MYT" duration-ms="3247" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- filterValidation -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:HomeTest.HomeTest@5f683daf]" started-at="2022-10-03T03:54:23 MYT" name="tearDown" finished-at="2022-10-03T03:54:23 MYT" duration-ms="99" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:HomeTest.HomeTest@5f683daf]" started-at="2022-10-03T03:54:23 MYT" name="setUp" finished-at="2022-10-03T03:54:33 MYT" duration-ms="10307" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="addToCart()[pri:3, instance:HomeTest.HomeTest@5f683daf]" started-at="2022-10-03T03:54:33 MYT" name="addToCart" finished-at="2022-10-03T03:54:45 MYT" duration-ms="11355" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addToCart -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:HomeTest.HomeTest@5f683daf]" started-at="2022-10-03T03:54:45 MYT" name="tearDown" finished-at="2022-10-03T03:54:45 MYT" duration-ms="104" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- HomeTest.HomeTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
